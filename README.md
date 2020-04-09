@@ -4,7 +4,7 @@ An app that automates your closet and generates an outfit.
 ## Table of Contents
 * [Video](#Video)
 * [Technologies](#Technologies)
-* [Setup](#Local Setup)
+* [Setup](#LocalSetup)
 * [ToDo](#ToDo)
 * [Troubleshooting](#Troubleshooting)
 
@@ -17,7 +17,7 @@ Check out the youtube video for a step by step walk through
 * [Pillow]
 * [Playsound]
 
-## Local Setup
+## LocalSetup
 1) Install All Dependencies   
 `pip3 install -r requirements.txt`
 
