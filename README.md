@@ -4,8 +4,9 @@ An app that automates your closet and generates an outfit.
 ## Table of Contents
 * [Video](#Video)
 * [Technologies](#Technologies)
-* [Setup](#LocalSetup)
+* [Setup](#Local Setup)
 * [ToDo](#ToDo)
+* [Troubleshooting](#Troubleshooting)
 
 ## Video
 Check out the youtube video for a step by step walk through 
@@ -16,7 +17,7 @@ Check out the youtube video for a step by step walk through
 * [Pillow]
 * [Playsound]
 
-## LocalSetup
+## Local Setup
 1) Install All Dependencies   
 `pip3 install -r requirements.txt`
 
@@ -27,6 +28,9 @@ Check out the youtube video for a step by step walk through
 * Tests
 * Add Error Handling
 * Deploy
+
+## Troubleshooting
+* If your having issues with Pillow install pyobjc   
 
    [Youtube Video]: <https://youtu.be/IrZ58M8BgcA>
    [Tkinter]: <http://effbot.org/tkinterbook/>
