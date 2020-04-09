@@ -1,5 +1,5 @@
 # WardrobeApp
-An app that automates your closet and generates an outfit.
+A Tkinter app that automates your closet and generates an outfit.
 
 ## Table of Contents
 * [Video](#Video)
